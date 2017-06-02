@@ -10,7 +10,7 @@ module.exports = nativeDescription: "Bahasa Indonesia", englishDescription: "Ind
     classroom_in_a_box: "Sebuah ruangan kelas di-dalam-kotak untuk mengajar sains komputer."
     codecombat_is: "CodeCombat adalah sebuah panggung untuk para murid untuk belajar ilmu komputer sambil bermain permainan yang sesungguhnya."
     our_courses: "Kursus kami telah di uji melalui para pemain secara khusus untuk unggul di ruang kelas, bahkan oleh para guru yang mempunyai sedikit atau tanpa pengalaman pemrograman sebelumnya."
-#    top_screenshots_hint: "Students write code and see their changes update in real-time"
+#    top_screenshots_hint: "Students write code and see their changes update in real-time" :"Siswa-siswa menulis code dan melihat update perubahannya secara langsung"
     designed_with: "Dirancang untuk para guru"
     real_code: "Kode asli yang diketik"
     from_the_first_level: "dari tingkat pertama"
@@ -58,11 +58,11 @@ module.exports = nativeDescription: "Bahasa Indonesia", englishDescription: "Ind
     boast: "teka-teki Membanggakan yang cukup kompleks untuk mempesona para pemain dan pengkode."
     winning: "Kombinasi yang unggul dari permainan RPG dan pemrograman pekerjaan rumah yang berhasil membuat pendidikan ramah anak yang sah dan menyenangkan."
     run_class: "Semua yang Anda butuhkan untuk menjalankan kelas ilmu komputer di sekolah Anda hari ini, latar belakang CS tidak diperlukan."
-#    goto_classes: "Go to My Classes"
-#    view_profile: "View My Profile"
-#    view_progress: "View Progress"
-#    go_to_courses: "Go to My Courses"
-#    want_coco: "Want CodeCombat at your school?"
+#    goto_classes: "Go to My Classes" "Pergilah ke kelasku"
+#    view_profile: "View My Profile" "Lihat Profilku"
+#    view_progress: "View Progress" "Lihat Progses"
+#    go_to_courses: "Go to My Courses" 
+#    want_coco: "Want CodeCombat at your school?" "ingin CodeCombat ada disekolahmu?"
 
   nav:
     play: "Tingkatan" # The top nav bar entry where players choose which levels to play
@@ -71,12 +71,12 @@ module.exports = nativeDescription: "Bahasa Indonesia", englishDescription: "Ind
     blog: "Blog"
     forum: "Forum"
     account: "Akun"
-#    my_account: "My Account"
+#    my_account: "My Account" "Akunku"
     profile: "Profil"
     home: "Home"
     contribute: "Kontribusi"
     legal: "Legal"
-#    privacy: "Privacy"
+#    privacy: "Privacy" "Privasi"
     about: "Tentang"
     contact: "Kontak"
     twitter_follow: "Ikuti"
@@ -95,7 +95,7 @@ module.exports = nativeDescription: "Bahasa Indonesia", englishDescription: "Ind
 #    open_source: "Open source (GitHub)"
 #    support: "Support"
 #    faqs: "FAQs"
-#    help_pref: "Need help? Email"
+#    help_pref: "Need help? Email" "Butuh bantuan? Email"
 #    help_suff: "and we'll get in touch!"
 #    resource_hub: "Resource Hub"
 
@@ -136,10 +136,10 @@ module.exports = nativeDescription: "Bahasa Indonesia", englishDescription: "Ind
     change_hero: "Ganti Hero" # Go back from choose inventory to choose hero
     buy_gems: "Beli Gems"
     subscription_required: "Berlangganan diperlukan"
-#    subscribers_only: "Subscribers Only!"
-#    subscribe_unlock: "Subscribe to Unlock!"
-#    subscriber_heroes: "Subscribe today to immediately unlock Amara, Hushbaum, and Hattori!"
-#    subscriber_gems: "Subscribe today to purchase this hero with gems!"
+#    subscribers_only: "Subscribers Only!" "hanya Subscribers"
+#    subscribe_unlock: "Subscribe to Unlock!" "subscribe untuk membuka"
+#    subscriber_heroes: "Subscribe today to immediately unlock Amara, Hushbaum, and Hattori!" "subscribe hari ini untuk langsung membuka Amara,Hushbaum, Hattori!"
+#    subscriber_gems: "Subscribe today to purchase this hero with gems!" "subscribe hari ini untuk membeli pahlawan ini dengan permata-permata"
     anonymous: "Pemain tak bernama"
     level_difficulty: "Kesulitan: "
     play_classroom_version: "Mainkan Versi Ruang Kelas" # Choose a level in campaign version that you also can play in one of your courses
@@ -150,10 +150,10 @@ module.exports = nativeDescription: "Bahasa Indonesia", englishDescription: "Ind
     adjust_volume: "Atur Volume"
     campaign_multiplayer: "Arena Multipemain"
     campaign_multiplayer_description: "... dimana kamu membuat kode satu lawan satu melawan pemain lainnya."
-#    brain_pop_done: "You’ve defeated the Ogres with code! You win!"
-#    brain_pop_challenge: "Challenge yourself to play again using a different programming language!"
+#    brain_pop_done: "You’ve defeated the Ogres with code! You win!" "kau mengalahkan para ogre dengan kode! kau menang!"
+#    brain_pop_challenge: "Challenge yourself to play again using a different programming language!" "tantang dirimu untuk bermain ulang menggunakan bahasa programming berbeda"
 #    replay: "Replay"
-#    back_to_classroom: "Back to Classroom"
+#    back_to_classroom: "Back to Classroom" "kembali ke kelas"
 
 #  code:
 #    if: "if" # Keywords--these translations show up on hover, so please translate them all, even if it's kind of long. (In the code editor, they will still be in English.)
@@ -228,9 +228,9 @@ module.exports = nativeDescription: "Bahasa Indonesia", englishDescription: "Ind
     signup_switch: "Ingin membuat akun?"
 
 #  signup:
-#    create_student_header: "Create Student Account"
-#    create_teacher_header: "Create Teacher Account"
-#    create_individual_header: "Create Individual Account"
+    create_student_header: "Buat Akun Siswa"
+#    create_teacher_header: "Create Teacher Account" "Buat Akun Guru"
+#    create_individual_header: "Create Individual Account" "Buat Akun Sendiri"
 #    email_announcements: "Receive announcements about new CodeCombat levels and features!"
 #    creating: "Creating Account..."
 #    sign_up: "Sign Up"
